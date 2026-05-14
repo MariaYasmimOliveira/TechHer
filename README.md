@@ -47,7 +47,7 @@ O projeto possui uma duração total de 9 semanas para a fase piloto acadêmica:
 
 ## 🗓️ Marcos de Entrega
 
-**Entrega Acadêmica (Versão Beta)**: 27/06/2026
+**Entrega Acadêmica (MVP)**: 27/06/2026
 
 **Lançamento Público Oficial**: 30/07/2026
 
